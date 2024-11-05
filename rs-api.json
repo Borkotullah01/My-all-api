@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "estate_title": "Military Academy Daka",
+        "image": "https://i.ibb.co/stBtf13/military-Academy-Daka.png",
+        "segment_name": "Educational Estate",
+        "description": "A prestigious military academy known for its robust infrastructure and scenic grounds.",
+        "price": "Not for Sale",
+        "area": "N/A",
+        "location": "Dhaka, Bangladesh",
+        "facilities": ["Secure campus", "Sports grounds", "Dormitories"],
+        "status": "N/A",
+        "button_text": "View Details"
+    },
+    {
+        "id": 2,
+        "estate_title": "Dhaka Library",
+        "image": "https://i.ibb.co/PG9kJ9h/dhaka-Library.jpg",
+        "segment_name": "Library",
+        "description": "A public library with extensive resources and archives, located in the heart of Dhaka.",
+        "price": "Not for Sale",
+        "area": "N/A",
+        "location": "Dhaka, Bangladesh",
+        "facilities": ["Reading rooms", "Archives", "Free Wi-Fi"],
+        "status": "N/A",
+        "button_text": "View Details"
+    },
+    {
+        "id": 3,
+        "estate_title": "Residential House Daka",
+        "image": "https://i.ibb.co/HVJj8jX/House-Daka.jpg",
+        "segment_name": "Residential Property",
+        "description": "A luxurious family house with modern amenities and landscaped gardens.",
+        "price": "$250,000",
+        "area": "2500 sq ft",
+        "location": "Dhanmondi, Dhaka, Bangladesh",
+        "facilities": ["Parking", "Garden", "Swimming Pool"],
+        "status": "For Sale",
+        "button_text": "Add to Buy"
+    },
+    {
+        "id": 4,
+        "estate_title": "Victoria Kolkata",
+        "image": "https://i.ibb.co/3TKpDr7/victoria-Kolkata.jpg",
+        "segment_name": "Heritage Site",
+        "description": "A historical monument and tourist destination showcasing colonial architecture.",
+        "price": "Not for Sale",
+        "area": "N/A",
+        "location": "Kolkata, India",
+        "facilities": ["Guided tours", "Cafeteria", "Garden"],
+        "status": "N/A",
+        "button_text": "View Details"
+    },
+    {
+        "id": 5,
+        "estate_title": "Glass House Gulshan",
+        "image": "https://i.ibb.co/ZfrdYY0/glass-House-Gulshan.jpg",
+        "segment_name": "Office Space",
+        "description": "Modern office space with a unique glass architecture, located in the commercial hub of Gulshan.",
+        "price": "$1,200/month",
+        "area": "1500 sq ft",
+        "location": "Gulshan, Dhaka, Bangladesh",
+        "facilities": ["Conference room", "24/7 security", "Parking"],
+        "status": "For Rent",
+        "button_text": "Add to Rent"
+    }
+]
